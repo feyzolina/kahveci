@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Arial narrow';
+    color: bisque;
+    text-decoration: none;
+    list-style-type: none;
+    font-size: 16px;
+}
+
+#page {
+    width: 1000px;
+    height: 1800px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: darkred;
+}
+
+#logo img {
+    width: 200px;
+    height: 200px;
+    display: block;
+}
+
+#logo h1 {
+    height: 50px;
+    width: 200px;
+    text-align: center;
+    font-size: 22px;
+    padding-top: 8px;
+    box-sizing: border-box;
+}
